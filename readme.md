@@ -71,6 +71,6 @@ The Haunted House 3D website is licensed under the [MIT License](LICENSE). You a
 Enjoy exploring the Haunted House 3D website and unraveling its mysteries! If you have any questions or feedback, feel free to contact us.
 
 <!----------------------------------------------------------------------------->
-[Link]: # 'https://three-d-appdemo.web.app/'
+[Link]: https://three-d-appdemo.web.app/
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
