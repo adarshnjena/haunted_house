@@ -30,7 +30,7 @@ To run the Haunted House 3D website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/haunted-house.git
+   git clone https://github.com/adarshnjena/haunted_house
    ```
 
 2. Navigate to the project directory:
