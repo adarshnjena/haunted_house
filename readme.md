@@ -1,4 +1,5 @@
 # Haunted House 3D Website
+[![Button]][Link]
 
 This is a haunted house 3D website built using Three.js, a JavaScript library for creating 3D graphics on the web. The website features a spooky haunted house environment with a hidden message and a control panel to adjust the lights of the scene.
 
@@ -69,10 +70,7 @@ The Haunted House 3D website is licensed under the [MIT License](LICENSE). You a
 
 Enjoy exploring the Haunted House 3D website and unraveling its mysteries! If you have any questions or feedback, feel free to contact us.
 
-[![Button Example]][Link]
 <!----------------------------------------------------------------------------->
 [Link]: # 'https://three-d-appdemo.web.app/'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
-<!-- <kbd> <br>[Live Demo](https://three-d-appdemo.web.app/)<br> </kbd>
- -->
+[Button]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
